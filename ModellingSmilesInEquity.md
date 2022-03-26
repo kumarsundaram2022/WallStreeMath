@@ -11,9 +11,6 @@ Modelling Similes in Equity
                     -> algebra
                       -> Pre Algebra
                         -> Addition, Substractio,Multiplication and Divisiton
-                          -> Number System
-                             -> 1,2,3..
-                             
-      
-      
+                          -> Numbers
+                             -> Counting 1,2,3..    
 ```
