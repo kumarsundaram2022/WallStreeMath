@@ -10,7 +10,8 @@ Modelling Similes in Equity
                  -> functions with one variable
                     -> algebra
                       -> Pre Algebra
-                        -> Addition, Substractio,Multiplication and Divisiton
-                          -> Numbers
+                        -> Elementary School Maths
+                          -> Addition, Substractio,Multiplication and Divisiton
+                            -> Numbers
                              -> Counting 1,2,3..    
 ```
